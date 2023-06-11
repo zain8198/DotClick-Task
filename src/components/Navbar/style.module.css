@@ -1,0 +1,44 @@
+.nav {
+  width: 20%;
+  position: fixed;
+  /* box-shadow: 10px 4px 8px rgba(0, 0, 0, 0.25); */
+}
+.logo {
+  position: absolute;
+  width: 119px;
+  height: 43px;
+  left: 38px;
+  top: 37.08px;
+  font-style: italic;
+  font-weight: 800;
+  font-size: 35.4809px;
+  line-height: 43px;
+}
+.menu {
+  padding: 20px;
+  margin-top: 100px;
+}
+.menu li {
+  list-style: none;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 63px;
+  letter-spacing: -0.02em;
+  color: #494949;
+}
+a {
+  color: #494949;
+  text-decoration: none;
+}
+.btn{
+  width: 80%;
+  margin: auto;
+  margin-left: 17px;
+height: 50px;
+font-size: 1.5rem;
+color: white;
+border: none;
+background: linear-gradient(180deg, #48AF78 0%, #42996B 100%);
+border-radius: 10px;
+}
+

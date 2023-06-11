@@ -1,0 +1,46 @@
+.Card_wrapper {
+  width: 250px;
+  height: 220px;
+  background-color: #f5f4f4;
+  border: 1px solid rgba(0, 0, 0, 0.18);
+  border-radius: 10px;
+  margin-right: 70px;
+}
+.logo {
+  text-align: center;
+  font-style: italic;
+  font-size: 19.1247px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  color: #85c371;
+  margin-top: 30px;
+}
+.Card_Footer {
+  width: 248px;
+  height: 93px;
+  box-shadow: 0px -2px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  position: relative;
+  top: 20px;
+  background-color: #f5f4f4;
+  padding: 10px;
+  color: #959595;
+  font-weight: 500;
+  font-size: 17.5894px;
+  line-height: 21px;
+  letter-spacing: -0.07em;
+}
+.para {
+  text-align: center;
+  color: #959595;
+  margin-bottom: 10px;
+}
+.btn {
+  width: 126px;
+  height: 40px;
+  color: white;
+  outline: none;
+  border: none;
+  background-color: #44a16f;
+  border-radius: 10px;
+}
